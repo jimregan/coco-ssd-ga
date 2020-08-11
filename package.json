@@ -1,5 +1,5 @@
 {
-  "name": "@tensorflow-models/coco-ssd",
+  "name": "coco-ssd-ga",
   "version": "2.1.0",
   "description": "Object detection model (coco-ssd) in TensorFlow.js",
   "main": "dist/coco-ssd.node.js",
