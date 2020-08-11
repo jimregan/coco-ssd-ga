@@ -10,7 +10,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tensorflow/tfjs-models.git"
+    "url": "https://github.com/jimregan/coco-ssd-ga"
   },
   "peerDependencies": {
     "@tensorflow/tfjs-converter": "^2.0.1",
